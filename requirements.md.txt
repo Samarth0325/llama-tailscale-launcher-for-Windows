@@ -1,0 +1,6 @@
+- Windows 10/11
+- Tailscale
+- Git
+- CMake
+- Internet connection
+- GGUF model

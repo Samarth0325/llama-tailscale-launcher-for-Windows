@@ -1,0 +1,8 @@
+*.exe
+*.log
+*.gguf
+build/
+models/
+tailscale.exe
+git.exe
+cmake.msi
